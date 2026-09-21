@@ -24,8 +24,8 @@ This repository contains the source code for a project I worked on managing vehi
 4. Press **Start** (or `F5`) in Visual Studio to run the application.
 
 ## Screenshots
-<img width="810" height="558" alt="image" src="https://github.com/user-attachments/assets/29bf12d3-539a-495f-a930-bb75bb6932ce" />
-<img width="815" height="552" alt="image" src="https://github.com/user-attachments/assets/c2ce3f51-bcc0-44b0-8737-8d09ac66cfd8" />
-<img width="761" height="542" alt="image" src="https://github.com/user-attachments/assets/a8dfcd6c-a63c-4dd2-8209-477ea1bf8b97" />
+<img width="800" height="569" alt="Screenshot 2026-09-20 204921" src="https://github.com/user-attachments/assets/a1f1180f-c287-4c4b-a098-eda903249f5c" />
+<img width="905" height="677" alt="Screenshot 2026-09-20 204949" src="https://github.com/user-attachments/assets/012aa888-0bdb-4ef1-a683-3a5c7ad56edb" />
+
 
 

@@ -1,6 +1,6 @@
 # C# Windows Forms: Vehicle Rental Manager
 
-This repository contains the source code for a project I worked on managing vehicle rentals. It demonstrates how to build a basic graphical user interface and apply Object-Oriented Programming (OOP) concepts in C#.
+This repository contains the source code for a project I worked on managing vehicle rentals. It demonstrates how to build a basic graphical user interface and apply Object-Oriented Programming (OOP) concepts, as well as how to pass objects between multiple forms and implement binary serialization to save and load local data using C#.
 
 **📺 Watch the full tutorial here:** (https://www.youtube.com/@CodedByVin).
 
